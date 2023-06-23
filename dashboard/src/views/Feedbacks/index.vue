@@ -2,4 +2,6 @@
   <h1>Feedbacks</h1>
 </template>
 
-<script></script>
+<script>
+export default {};
+</script>
